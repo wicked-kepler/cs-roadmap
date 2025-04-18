@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 1 - Introduction
 
 ### Types of knowledge
 - **Delerative knowlege** - statements of facts
