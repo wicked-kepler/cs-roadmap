@@ -9,7 +9,6 @@
 - You slice strings using \[start\:stop:step]
 - Strings are immutable - cannot be modified
 
-
 ### Comparison operators
 - Comparisons below evalue to the type Boolean:
 - i > j
