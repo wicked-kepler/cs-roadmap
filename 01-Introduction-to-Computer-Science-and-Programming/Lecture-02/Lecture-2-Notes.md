@@ -21,4 +21,4 @@
 ### Logical operators
 - not a - True if a is False / False if a is True
 - a and b - True if both a true
-- a or b - Ture if either or both are True
+- a or b - True if either or both are True
