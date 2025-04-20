@@ -1,4 +1,6 @@
-# Lecture 1 - Introduction
+# Lecture 1 - Introduction to Python
+
+> **Topic Overview:** knowlege, machines, objects, variables, bindings
 
 ### Types of knowledge
 - **Delerative knowlege** - statements of facts
