@@ -2,7 +2,7 @@
 > Using information from [OSSU GitHub Page](https://github.com/ossu/computer-science/blob/master/README.md#core-programming)
 
 ## Introduction to Computer Science
-- [ ] [Introduction to Computer Science and Programming using Python](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/README.md) ~ 2/14 weeks
+- [ ] [Introduction to Computer Science and Programming using Python](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/README.md) ~ 3/14 weeks
 - [ ] [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) ~ 12 weeks
 
 ## Core Computer Science
