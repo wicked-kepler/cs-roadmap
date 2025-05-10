@@ -42,6 +42,6 @@
     numGuesses += 1
   print('numGuesses =', numGuesses)
   if abs(guess ** 2 - x) >= epsilon:
-    print('Failed on square root of', x)
+    print('Failed on square root of', str(x))
   else:
-    print(guess, 'is close to square root of', x)
+    print(str(guess), 'is close to square root of', str(x))
