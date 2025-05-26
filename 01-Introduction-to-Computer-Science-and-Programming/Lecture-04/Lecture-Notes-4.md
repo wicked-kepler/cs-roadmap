@@ -1,7 +1,7 @@
 # Lecture 4 - Loops over Strings, Guess-and-Check, Binary
 > **Topic Overview:** interation, guess and check, binary, fractions
 ### Break Statements
-- Imediately exits whateber loop it is in
+- Imediately exits whatever loop it is in
 - Skips remaining expressions in code block
 - Exits only innermost loop
 - ```
