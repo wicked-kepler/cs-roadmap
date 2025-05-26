@@ -3,8 +3,8 @@
 > **Topic Overview:** knowlege, machines, objects, variables, bindings
 
 ### Types of knowledge
-- **Delerative knowlege** - statements of facts
-- **Imperative knowlege** - instructions
+- **Declerative knowledge** - statements of facts
+- **Imperative knowledge** - instructions
 
 ### Algorithms
 - Sequence of simple steps
