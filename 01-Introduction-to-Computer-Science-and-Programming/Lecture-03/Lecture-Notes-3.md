@@ -16,7 +16,7 @@
   - char is a string that takes on the value of each character in s
  
 ### While loops
-- while loops ahve a condition that they check to determine if they shoul keep running
+- while loops ahve a condition that they check to determine if they should keep running
 - They keep running until the condition no longer evaluates to True
 - ```
   counter = 0
