@@ -20,3 +20,4 @@
 - A function will produce an output from inputs, while hiding details of how it does the computation
 - Docstrings can be used to highlights specifications of a function
 - Compared to code in a file it doesn't run when you load the file only when it is called
+
