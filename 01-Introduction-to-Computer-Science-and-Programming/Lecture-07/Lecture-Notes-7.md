@@ -9,7 +9,7 @@
 ### Decomposition
 - Decomposition is used to divide code into modules that are:
   - Self-contained
-  - Inteded to be reusable
+  - Intended to be reusable
 - Modules are used to:
   - Break up code into logical pieces
   - Keep code organised
